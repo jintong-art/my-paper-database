@@ -1,1 +1,1026 @@
-[]
+[
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/Y6W3F5T2",
+		"type": "document",
+		"title": "이모티콘의 다면(多面) 감정, 상황, 관계의 상호작용"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/GMUJ4Y8E",
+		"type": "article-journal",
+		"abstract": "Facial emotion recognition (FER) is an important topic in the ﬁelds of computer vision and artiﬁcial intelligence owing to its signiﬁcant academic and commercial potential. Although FER can be conducted using multiple sensors, this review focuses on studies that exclusively use facial images, because visual expressions are one of the main information channels in interpersonal communication. This paper provides a brief review of researches in the ﬁeld of FER conducted over the past decades. First, conventional FER approaches are described along with a summary of the representative categories of FER systems and their main algorithms. Deep-learning-based FER approaches using deep networks enabling “end-to-end” learning are then presented. This review also focuses on an up-to-date hybrid deep-learning approach combining a convolutional neural network (CNN) for the spatial features of an individual frame and long short-term memory (LSTM) for temporal features of consecutive frames. In the later part of this paper, a brief review of publicly available evaluation metrics is given, and a comparison with benchmark results, which are a standard for a quantitative comparison of FER researches, is described. This review can serve as a brief guidebook to newcomers in the ﬁeld of FER, providing basic knowledge and a general understanding of the latest state-of-the-art studies, as well as to experienced researchers looking for productive directions for future work.",
+		"container-title": "Sensors",
+		"DOI": "10.3390/s18020401",
+		"ISSN": "1424-8220",
+		"issue": "2",
+		"journalAbbreviation": "Sensors",
+		"language": "en",
+		"page": "401",
+		"source": "DOI.org (Crossref)",
+		"title": "A Brief Review of Facial Emotion Recognition Based on Visual Information",
+		"URL": "https://www.mdpi.com/1424-8220/18/2/401",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Ko",
+				"given": "Byoung"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/4KUYTBDH",
+		"type": "article-journal",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Are There Basic Emotions?",
+		"author": [
+			{
+				"family": "Ekman",
+				"given": "Paul"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/5NRDL4ZQ",
+		"type": "article-journal",
+		"abstract": "It is commonly assumed that a person’s emotional state can be readily inferred from his or her facial movements, typically called emotional expressions or facial expressions. This assumption influences legal judgments, policy decisions, national security protocols, and educational practices; guides the diagnosis and treatment of psychiatric illness, as well as the development of commercial applications; and pervades everyday social interactions as well as research in other scientific fields such as artificial intelligence, neuroscience, and computer vision. In this article, we survey examples of this widespread assumption, which we refer to as the common view, and we then examine the scientific evidence that tests this view, focusing on the six most popular emotion categories used by consumers of emotion research: anger, disgust, fear, happiness, sadness, and surprise. The available scientific evidence suggests that people do sometimes smile when happy, frown when sad, scowl when angry, and so on, as proposed by the common view, more than what would be expected by chance. Yet how people communicate anger, disgust, fear, happiness, sadness, and surprise varies substantially across cultures, situations, and even across people within a single situation. Furthermore, similar configurations of facial movements variably express instances of more than one emotion category. In fact, a given configuration of facial movements, such as a scowl, often communicates something other than an emotional state. Scientists agree that facial movements convey a range of information and are important for social communication, emotional or otherwise. But our review suggests an urgent need for research that examines how people actually move their faces to express emotions and other social information in the variety of contexts that make up everyday life, as well as careful study of the mechanisms by which people perceive instances of emotion in one another. We make specific research recommendations that will yield a more valid picture of how people move their faces to express emotions and how they infer emotional meaning from facial movements in situations of everyday life. This research is crucial to provide consumers of emotion research with the translational information they require.",
+		"container-title": "Psychological Science in the Public Interest",
+		"DOI": "10.1177/1529100619832930",
+		"ISSN": "1529-1006, 2160-0031",
+		"issue": "1",
+		"journalAbbreviation": "Psychol Sci Public Interest",
+		"language": "en",
+		"page": "1-68",
+		"source": "DOI.org (Crossref)",
+		"title": "Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements",
+		"title-short": "Emotional Expressions Reconsidered",
+		"URL": "https://journals.sagepub.com/doi/10.1177/1529100619832930",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Barrett",
+				"given": "Lisa Feldman"
+			},
+			{
+				"family": "Adolphs",
+				"given": "Ralph"
+			},
+			{
+				"family": "Marsella",
+				"given": "Stacy"
+			},
+			{
+				"family": "Martinez",
+				"given": "Aleix M."
+			},
+			{
+				"family": "Pollak",
+				"given": "Seth D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/CI56XAVY",
+		"type": "article-journal",
+		"container-title": "Journal of the Korea Society of Computer and Information",
+		"DOI": "10.9708/jksci.2025.30.11.107",
+		"ISSN": "1598-849X, 2383-9945",
+		"issue": "11",
+		"journalAbbreviation": "jksci",
+		"language": "ko",
+		"page": "107-114",
+		"source": "DOI.org (Crossref)",
+		"title": "A study on the emotional emoticon expression according to the brand character",
+		"URL": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE12481153",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Sang-Hwa"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					11,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/6MI29YY3",
+		"type": "document",
+		"title": "이모티콘의 다면(多面) 감정, 상황, 관계의 상호작용"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/IR7973QJ",
+		"type": "article-journal",
+		"abstract": "Facial emotion recognition (FER) is an important topic in the ﬁelds of computer vision and artiﬁcial intelligence owing to its signiﬁcant academic and commercial potential. Although FER can be conducted using multiple sensors, this review focuses on studies that exclusively use facial images, because visual expressions are one of the main information channels in interpersonal communication. This paper provides a brief review of researches in the ﬁeld of FER conducted over the past decades. First, conventional FER approaches are described along with a summary of the representative categories of FER systems and their main algorithms. Deep-learning-based FER approaches using deep networks enabling “end-to-end” learning are then presented. This review also focuses on an up-to-date hybrid deep-learning approach combining a convolutional neural network (CNN) for the spatial features of an individual frame and long short-term memory (LSTM) for temporal features of consecutive frames. In the later part of this paper, a brief review of publicly available evaluation metrics is given, and a comparison with benchmark results, which are a standard for a quantitative comparison of FER researches, is described. This review can serve as a brief guidebook to newcomers in the ﬁeld of FER, providing basic knowledge and a general understanding of the latest state-of-the-art studies, as well as to experienced researchers looking for productive directions for future work.",
+		"container-title": "Sensors",
+		"DOI": "10.3390/s18020401",
+		"ISSN": "1424-8220",
+		"issue": "2",
+		"journalAbbreviation": "Sensors",
+		"language": "en",
+		"page": "401",
+		"source": "DOI.org (Crossref)",
+		"title": "A Brief Review of Facial Emotion Recognition Based on Visual Information",
+		"URL": "https://www.mdpi.com/1424-8220/18/2/401",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Ko",
+				"given": "Byoung"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/DAGTAT4U",
+		"type": "article-journal",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Are There Basic Emotions?",
+		"author": [
+			{
+				"family": "Ekman",
+				"given": "Paul"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/BEHXADUX",
+		"type": "article-journal",
+		"abstract": "It is commonly assumed that a person’s emotional state can be readily inferred from his or her facial movements, typically called emotional expressions or facial expressions. This assumption influences legal judgments, policy decisions, national security protocols, and educational practices; guides the diagnosis and treatment of psychiatric illness, as well as the development of commercial applications; and pervades everyday social interactions as well as research in other scientific fields such as artificial intelligence, neuroscience, and computer vision. In this article, we survey examples of this widespread assumption, which we refer to as the common view, and we then examine the scientific evidence that tests this view, focusing on the six most popular emotion categories used by consumers of emotion research: anger, disgust, fear, happiness, sadness, and surprise. The available scientific evidence suggests that people do sometimes smile when happy, frown when sad, scowl when angry, and so on, as proposed by the common view, more than what would be expected by chance. Yet how people communicate anger, disgust, fear, happiness, sadness, and surprise varies substantially across cultures, situations, and even across people within a single situation. Furthermore, similar configurations of facial movements variably express instances of more than one emotion category. In fact, a given configuration of facial movements, such as a scowl, often communicates something other than an emotional state. Scientists agree that facial movements convey a range of information and are important for social communication, emotional or otherwise. But our review suggests an urgent need for research that examines how people actually move their faces to express emotions and other social information in the variety of contexts that make up everyday life, as well as careful study of the mechanisms by which people perceive instances of emotion in one another. We make specific research recommendations that will yield a more valid picture of how people move their faces to express emotions and how they infer emotional meaning from facial movements in situations of everyday life. This research is crucial to provide consumers of emotion research with the translational information they require.",
+		"container-title": "Psychological Science in the Public Interest",
+		"DOI": "10.1177/1529100619832930",
+		"ISSN": "1529-1006, 2160-0031",
+		"issue": "1",
+		"journalAbbreviation": "Psychol Sci Public Interest",
+		"language": "en",
+		"page": "1-68",
+		"source": "DOI.org (Crossref)",
+		"title": "Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements",
+		"title-short": "Emotional Expressions Reconsidered",
+		"URL": "https://journals.sagepub.com/doi/10.1177/1529100619832930",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Barrett",
+				"given": "Lisa Feldman"
+			},
+			{
+				"family": "Adolphs",
+				"given": "Ralph"
+			},
+			{
+				"family": "Marsella",
+				"given": "Stacy"
+			},
+			{
+				"family": "Martinez",
+				"given": "Aleix M."
+			},
+			{
+				"family": "Pollak",
+				"given": "Seth D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/XVYCZ4WF",
+		"type": "article-journal",
+		"container-title": "Journal of the Korea Society of Computer and Information",
+		"DOI": "10.9708/jksci.2025.30.11.107",
+		"ISSN": "1598-849X, 2383-9945",
+		"issue": "11",
+		"journalAbbreviation": "jksci",
+		"language": "ko",
+		"page": "107-114",
+		"source": "DOI.org (Crossref)",
+		"title": "A study on the emotional emoticon expression according to the brand character",
+		"URL": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE12481153",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Sang-Hwa"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					11,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/SA9X2RTC",
+		"type": "document",
+		"title": "5.카카오톡 이모티콘을 통한 자아표상과 이에 따른 기호특성 연구"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/WAKA4JZ5",
+		"type": "article-journal",
+		"container-title": "JOURNAL OF THE KOREAN SOCIETY DESIGN CULTURE",
+		"DOI": "10.18208/ksdc.2017.23.2.443",
+		"ISSN": "1598-6497",
+		"issue": "2",
+		"journalAbbreviation": "ksdc",
+		"language": "ko",
+		"page": "443-455",
+		"source": "DOI.org (Crossref)",
+		"title": "A Study on the Sign & Visual Symbols of Kakao Talk Emoticons",
+		"URL": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07196671",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Yun",
+				"given": "Min Hie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/WJJ4V6QM",
+		"type": "article-journal",
+		"abstract": "Background and Objectives The representative SNSs of each country are kakao talk in Korea, WeChat in China, and online in Japan. They have different characteristics. Objective The purpose is to analyze the trends and prefer ences of emoji design and the cultural characteristics of emoji design, focusing on users in their twenties, who ar e the main users of emoji, and to improve. The target is the top three emojis of joy, sadness, anger and surprise in three countries. Method The cultural characteristics of emojis were analyzed through a literature survey. The so cial characteristics of users in their 20s were examined. The current situation and characteristics of Emojis were analyzed. Result Korean emojis are more inclusive and le ss pictorial. China emojis have greater pictoriality but les s creativity. Japan has greater immediacy but less inclusi veness. Conclusion Korean emojis must better portray e motion. The China emojis should be fun and meaningful. Fewer anime-themed Japanese emojis are needed. It will help develop the emoji design business by creating desig n strategies.",
+		"container-title": "A Journal of Brand Design Association of Korea",
+		"DOI": "10.18852/BDAK.2022.20.2.93",
+		"issue": "2",
+		"language": "ko",
+		"page": "93-106",
+		"publisher": "사단법인 한국브랜드디자인학회",
+		"source": "DOI.org (CSL JSON)",
+		"title": "The Analysis of Korean, Chinese and Japanese Cultural Characteristics and Emoticon Design Preferred by 20-somethings- Centered On Expressions Of Joy, Sadness, Anger, And Surprise -",
+		"URL": "https://doi.org/10.18852/BDAK.2022.20.2.93",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Gao Wei Guang",
+				"given": ""
+			},
+			{
+				"family": "Song Min Jung",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/PPKHGEG9",
+		"type": "article-journal",
+		"container-title": "JOURNAL OF THE KOREAN SOCIETY DESIGN CULTURE",
+		"DOI": "10.18208/ksdc.2018.24.1.481",
+		"ISSN": "1598-6497",
+		"issue": "1",
+		"journalAbbreviation": "ksdc",
+		"language": "ko",
+		"page": "481-493",
+		"source": "DOI.org (Crossref)",
+		"title": "A Study on the Identification Theory in Mobile Messenger Emoticon and Brand Emoticon",
+		"URL": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07407079",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Seung Young"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					3,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/7986HZQQ",
+		"type": "article-journal",
+		"container-title": "Journal of the Korea Society of Computer and Information",
+		"DOI": "10.9708/jksci.2025.30.11.107",
+		"ISSN": "1598-849X, 2383-9945",
+		"issue": "11",
+		"journalAbbreviation": "jksci",
+		"language": "ko",
+		"page": "107-114",
+		"source": "DOI.org (Crossref)",
+		"title": "A study on the emotional emoticon expression according to the brand character",
+		"URL": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE12481153",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Sang-Hwa"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					11,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/5FG6XW6H",
+		"type": "article-journal",
+		"abstract": "The purpose of this thesis is to analyze the function and commerciality based on the research of emoji character theory, to judge the possibility of development of the industry and to provide direction. To this end, I carefully observed the current status of the emoji used in representative chat software in Korea, China and Japan, and analyzed the basic characteristics of the literature review and case studies to derive their commercial and market results. The results show that the emoji of intuitive communication, metaphorical communication, intimate emotional communication and business function analysis are gradually expanded with the production and circulation of related products, and the value and marketability of emoji characters will be further expanded. Therefore, in order to reflect these results in the future emoji market effectively, it is necessary to ensure the quality and utility by considering background stories, coding visual design, the relationship between effects characters and business value before entering the design stage.",
+		"container-title": "The Journal of Humanities and Social sciences 21",
+		"DOI": "10.22143/HSS21.10.5.2",
+		"ISSN": "20938721",
+		"issue": "5",
+		"journalAbbreviation": "HSS21",
+		"language": "ko",
+		"page": "17-28",
+		"source": "DOI.org (Crossref)",
+		"title": "A Survey of the Commercial Nature of Smartphone Emoji",
+		"URL": "https://kiss.kstudy.com/Detail/Ar?key=3715504",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Zhao",
+				"given": "Qianqian"
+			},
+			{
+				"family": "Kim",
+				"given": "Dukhwan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/UCHP24EJ",
+		"type": "document",
+		"title": "개항기 ‘김홍도 풍속화’의 모방과 확산"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/QE3QK5TW",
+		"type": "document",
+		"title": "김홍도 《풍속화첩》을 통해 본 구도 특징에 관한 연구"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/7X27QN9M",
+		"type": "document",
+		"title": "김홍도 필 〈기로세련계도〉와 ‘풍속화’적 표현의 의미"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/2LXEC7PL",
+		"type": "document",
+		"title": "조선 후기 西園雅集圖와 그 다층적 의미 金弘道 작품을 중심으로"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/2GM7E47Y",
+		"type": "article-journal",
+		"container-title": "The Korean Cultural Studies",
+		"DOI": "10.17792/KCS.2019.37..133",
+		"issue": "null",
+		"language": "ko",
+		"page": "133-160",
+		"publisher": "한국문화연구원",
+		"source": "DOI.org (CSL JSON)",
+		"title": "History of Research on Paintings of Late Joseon Period: Revisiting Genre Paintings and Danwon Kim Hongdo",
+		"title-short": "History of Research on Paintings of Late Joseon Period",
+		"URL": "https://doi.org/10.17792/KCS.2019.37..133",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Soyeon Kim",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/ICNRAWCW",
+		"type": "article-journal",
+		"abstract": "Narrative’ that is, a story is composed of character’s action through the time and space. ‘Self-narrative’, this character is ‘I’, the story is worked as the form of ‘self-knowing’. The first narrator, main character, and author can find him (her)self which is the acting being through autobiographical conversation. So it can adjust to self-portrait.",
+		"container-title": "The Korean Journal of Art and Media",
+		"DOI": "10.36726/CAMMP.2014.13.3.65",
+		"issue": "3",
+		"language": "ko",
+		"page": "65-80",
+		"publisher": "예술과미디어학회",
+		"source": "DOI.org (CSL JSON)",
+		"title": "Form of Self-narrative on Kim, HongDo's Self-portrait",
+		"URL": "https://doi.org/10.36726/CAMMP.2014.13.3.65",
+		"volume": "13",
+		"author": [
+			{
+				"family": "엄소연",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/6Q6CIG2G",
+		"type": "article-journal",
+		"language": "ko-KR",
+		"source": "Zotero",
+		"title": "김홍도의 여성인물화 고찰"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/PSZF286V",
+		"type": "document",
+		"title": "지방자치단체 캐릭터 디자인 활용에 대한 연구"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/N8ZRM7LL",
+		"type": "article-journal",
+		"abstract": "This article attempts to ‘rethink’ place brands after examining in detail how people form them in their minds. The article starts with a very brief account of the place branding literature to provide the necessary background and goes on to identify what we see as a shortcoming in current understanding of the place brand: the dominant idea that brands are formed as sums of mental associations. The article attempts to take current understanding of place brands further by going beyond associations and adding a missing element: the interactions between those associations. We propose a rethinking of place brands based on two pillars: first we incorporate more geographical understanding into place branding and, second, we outline a process that allows place elements and placebased associations to combine and form the place brand. The place brand formation process starts when people use place-making elements (materiality, practices, institutions and representations) to form mental associations with the place. These associations are not static but evolve and change over time as they interact with each other on several dimensions. These interactions constitute the way in which the place brand is formed. The argumentation leads to a novel conceptualization of the role of place branding in the above processes. The practical applicability and implications of the proposed rethinking of place brands suggested here are explored in detail through the examination of the branding process followed recently in Bogotá, Colombia, where our approach to place branding has found practical application.",
+		"container-title": "Environment and Planning A: Economy and Space",
+		"DOI": "10.1177/0308518X15594918",
+		"ISSN": "0308-518X, 1472-3409",
+		"issue": "6",
+		"journalAbbreviation": "Environ Plan A",
+		"language": "en",
+		"page": "1368-1382",
+		"source": "DOI.org (Crossref)",
+		"title": "Rethinking the place brand: the interactive formation of place brands and the role of participatory place branding",
+		"title-short": "Rethinking the place brand",
+		"URL": "https://journals.sagepub.com/doi/10.1177/0308518X15594918",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Kavaratzis",
+				"given": "Mihalis"
+			},
+			{
+				"family": "Kalandides",
+				"given": "Ares"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/DXXVBV5A",
+		"type": "article-journal",
+		"abstract": "Background and Objectives As part of urban branding research, it was intended to investigate and analyze char acter designs in autonomous districts in Seoul and presen t desirable directions. Research Method This study classi fied and analyzed six types of characters from autonomo us regions in Seoul and across the country, and then con ducted a formative analysis and storytelling survey focus ing on the characters of local governments in Seoul. Resu lt 16 out of 25 autonomous region characters in Seoul ha ve characters, and many local governments are not awar e of the importance of characters. A chart was created wi th six categories through resource analysis by local gove rnments. In color analysis, it is distributed in 'cute', 'ligh t', 'fancy', 'dynamic', 'cute', 'fancy', 'clear', and 'mode rate' on the color image scale, showing not only strong character design but also soft design. As for the design motif, plants and animals were the most common with se ven, and virtual people and complexes were three each. There were 15 expression techniques with overwhelmin gly many 2D and one that looked three-dimensional. Con clusion In order to become a good autonomous district character design, there must be excellent design as well as support for storytelling. Autonomous districts should be aware of the importance of character roles, and throug h design analysis, this study should first read trends and technology developments, secondly understand the role of characters online, and thirdly, development into profitable businesses such as emoticon goods development. It will also be important to use the characters established for a long time to maintain the image of the autonomous distri ct.",
+		"container-title": "A Journal of Brand Design Association of Korea",
+		"DOI": "10.18852/BDAK.2023.21.4.139",
+		"issue": "4",
+		"language": "ko",
+		"page": "139-150",
+		"publisher": "사단법인 한국브랜드디자인학회",
+		"source": "DOI.org (CSL JSON)",
+		"title": "A Study On The Role 0f Character Design In Autonomous Region Branding- Focusing On The Character Design Of The Seoul Autonomous Region -",
+		"URL": "https://doi.org/10.18852/BDAK.2023.21.4.139",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Park Young Joo",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/J72L8VHQ",
+		"type": "article-journal",
+		"abstract": "Background and Objectives As part of urban branding research, it was intended to investigate and analyze char acter designs in autonomous districts in Seoul and presen t desirable directions. Research Method This study classi fied and analyzed six types of characters from autonomo us regions in Seoul and across the country, and then con ducted a formative analysis and storytelling survey focus ing on the characters of local governments in Seoul. Resu lt 16 out of 25 autonomous region characters in Seoul ha ve characters, and many local governments are not awar e of the importance of characters. A chart was created wi th six categories through resource analysis by local gove rnments. In color analysis, it is distributed in 'cute', 'ligh t', 'fancy', 'dynamic', 'cute', 'fancy', 'clear', and 'mode rate' on the color image scale, showing not only strong character design but also soft design. As for the design motif, plants and animals were the most common with se ven, and virtual people and complexes were three each. There were 15 expression techniques with overwhelmin gly many 2D and one that looked three-dimensional. Con clusion In order to become a good autonomous district character design, there must be excellent design as well as support for storytelling. Autonomous districts should be aware of the importance of character roles, and throug h design analysis, this study should first read trends and technology developments, secondly understand the role of characters online, and thirdly, development into profitable businesses such as emoticon goods development. It will also be important to use the characters established for a long time to maintain the image of the autonomous distri ct.",
+		"container-title": "A Journal of Brand Design Association of Korea",
+		"DOI": "10.18852/BDAK.2023.21.4.139",
+		"issue": "4",
+		"language": "ko",
+		"page": "139-150",
+		"publisher": "사단법인 한국브랜드디자인학회",
+		"source": "DOI.org (CSL JSON)",
+		"title": "A Study On The Role 0f Character Design In Autonomous Region Branding- Focusing On The Character Design Of The Seoul Autonomous Region -",
+		"URL": "https://doi.org/10.18852/BDAK.2023.21.4.139",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Park Young Joo",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/6KW4IVFS",
+		"type": "article-journal",
+		"abstract": "With the support of the government and public institutions, local government characters achieved a lot of quantitative growth. However, there are very few successful cases such as strengthening local identity and revitalizing the local economy using characters. This paper presents a transmedia storytelling strategy as a way to solve the problem of local government characters. To do so, I identify the problems of the current local government characters, and analyze the preceding studies on the features and components of transmedia contents, and the principles of transmedia storytelling, to develop strategies and yielded the expected effect. The transmedia strategy of local government characters consists of a total of three stages. In the first step, the local identity is established through the development of a unique story to the region. The second step, improve attractivity by renewing character design for various individual media platforms. And lastly the third step, enhance usability by expanding interactivity based on communication and participation of development actors and the public. This paper is meaningful in that it derives a transmedia storytelling strategy from the perspective of brand marketing as a way to revitalize local government characters. Based on the conclusions drawn from this study, a follow-up study is needed to apply it to specific cases of local government characters.",
+		"container-title": "Journal of Digital Convergence",
+		"DOI": "10.14400/JDC.2021.19.12.427",
+		"issue": "12",
+		"language": "ko",
+		"page": "427-433",
+		"publisher": "한국디지털정책학회",
+		"source": "DOI.org (CSL JSON)",
+		"title": "A Study on Transmedia Storytelling Strategy of Local Government Character",
+		"URL": "https://doi.org/10.14400/JDC.2021.19.12.427",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Soong-Hyun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/GEIIYA3N",
+		"type": "article-journal",
+		"abstract": "The regional character is the representative of personified image of a regional brand. And the representativeness of designed character to a brand is an important indicator to evaluate the success of character design of a regional brand, because it can determine the extent to which consumers associate the brand with the experience from the character. This paper analyzes and summarizes the internal and external attributes of Kumamoto brand from the data at first to design a questionnaire. It focuses on the design elements such as color, shape, expression, information, identity and personality to investigate the association of Chinese consumers with the brand attributes of Kumamoto County from the character design of Kumamon, with 211 questionnaires received, using SPSS in correlation test between character design and brand attribute. The results show that all design elements of Kumamon have multivariate positive correlations with the brand attributes of Kumamoto County. It proves that the character design of Kumamon has a high representativeness to the regional brand, so it has a significant driving effect on it. The research also discusses the method of brand relevance design on the individual character of Kumamon, in which the results play a practical guiding role in the current situation that the character design is generally disconnected with attributes of regional brand.",
+		"container-title": "Korea Institute of Design Research Society",
+		"DOI": "10.46248/kidrs.2021.1.261",
+		"ISSN": "25082817",
+		"issue": "1",
+		"journalAbbreviation": "Korea Inst Des Res Soc",
+		"language": "ko",
+		"page": "261-272",
+		"source": "DOI.org (Crossref)",
+		"title": "A Study on the Correlation Design between Local Character and Brand Properties Based on the Kumamon Case Study",
+		"URL": "https://scholar.kyobobook.co.kr/article/detail/4010028207550",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Qi"
+			},
+			{
+				"family": "Kim",
+				"given": "Young Sam"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/4XYAFRGQ",
+		"type": "document",
+		"title": "위챗의 이모티콘 중 당삼채를 이용한 캐릭터디자인 연구"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/ZRGINF8M",
+		"type": "article-journal",
+		"abstract": "This study explores the application of Baby Schema Theory in the design of emoji stickers based on the Sanxingdui bronze heads (from the Sanxingdui site, Sichuan, China). The emoji stickers integrate typical baby schema features(large eyes, round faces, and softened contours) while preserving key cultural symbols such as bulging eyes, geometric gold masks, and distinctive headdresses. Moreover, A comparative analysis was conducted using five sets of existing Sanxingdui emoji stickers and five newly developed ones inspired by baby schema visual traits, assessing visual appeal, emotional expression, cultural recognizability, and willingness to use. Results showed that the newly designed emoji stickers significantly outperformed existing ones across all dimensions, with younger and female users exhibiting the strongest preferences. It suggests the potential for effective communication with it. The study provides practical design guidelines for the digital dissemination of traditional cultural IPs. Future research could extend this approach to animation, cultural branding, and digital education or incorporate dynamic elements and emerging media to broaden cultural communication strategies.",
+		"container-title": "Design Convergence Study",
+		"DOI": "10.31678/SDC112.6",
+		"ISSN": "22874089",
+		"issue": "0",
+		"journalAbbreviation": "SDC",
+		"language": "en",
+		"page": "97-115",
+		"source": "DOI.org (Crossref)",
+		"title": "A Study on the Application of Baby Schema Theory in the Emoji Sticker Design of Traditional Cultural Intellectual Property - Focus on Sanxingdui Bronze Heads(三星堆青銅頭像) in Sichuan, China",
+		"URL": "https://kiss.kstudy.com/Detail/Ar?key=4177636",
+		"volume": "112",
+		"author": [
+			{
+				"family": "Ou",
+				"given": "Yangjin"
+			},
+			{
+				"family": "Liu",
+				"given": "Xu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/ZDX7I8QN",
+		"type": "article-journal",
+		"container-title": "The Treatise on The Plastic Media",
+		"DOI": "10.35280/KOTPM.2025.28.3.4",
+		"ISSN": "2671-6194, 2734-0031",
+		"issue": "3",
+		"journalAbbreviation": "KOTPM",
+		"language": "ko",
+		"page": "29-39",
+		"source": "DOI.org (Crossref)",
+		"title": "A Study on the Typological Classification and Cultural Value of Emojis Derived from Child Figures in Traditional Chinese New Year Paintings",
+		"URL": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE12354628",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Teng",
+				"given": "Yu Tong"
+			},
+			{
+				"family": "Kim",
+				"given": "Un Chong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					8,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/3M4FT7XH",
+		"type": "article-journal",
+		"abstract": "Local government character is a means for local marketing, but character utilization area is insufficient and it is difficult to maintain after development. Therefore, this study analyzes the current state of Korean local characters and studies the characteristics and use cases of emotional emoticon characters that are continuing to grow rapidly in the character market, focusing on the new consumption trends and characteristics of the character industry. Emotional Emoticon Character analysis shows that character is a personality such as emotion, facial expression, action, and it shares with everyday people and communicates with us, becomes a personality that passes emotions beyond characters, creates high added value in new character industry have. In each municipality, it is necessary to develop an emotional character that communicates with people in order to establish identity. In addition, I intend to explore ways to revitalize cultural contents that are expected to have economic ripple effect as contents of local autonomous character.",
+		"container-title": "Journal of Communication Design",
+		"DOI": "10.25111/jcd.2019.67.21",
+		"ISSN": "19761562",
+		"journalAbbreviation": "JCD",
+		"language": "ko",
+		"page": "275-286",
+		"source": "DOI.org (Crossref)",
+		"title": "A Study on the Application of Emoticons Character Marketing to Local Governments",
+		"URL": "https://kiss.kstudy.com/Detail/Ar?key=3680152",
+		"volume": "67",
+		"author": [
+			{
+				"family": "Jo",
+				"given": "Jung-hyun"
+			},
+			{
+				"family": "Hong",
+				"given": "Chang-kee"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/BTFUE8HE",
+		"type": "document",
+		"title": "단원 김홍도의 풍속화 특징에관한 연구"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/D4RNZ7HE",
+		"type": "document",
+		"title": "이모티콘 구독서비스 이용에 관한 연구"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/V9H896JV",
+		"type": "document",
+		"title": "이모티콘 컨텍스트에 의한 감정 커뮤니케이션 연구 -카카오톡 이모티콘을 중심으로-"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/WH9YQENR",
+		"type": "document",
+		"title": "이모티콘(Emoticon)의 표현 양상에 관한 연구"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/M2LBYD3R",
+		"type": "document",
+		"title": "한국·일본 지방자치단체 캐릭터의 전통적 조형성에 따른 디자인 특성 비교분석 및 개발방안에 관한 연구"
+	},
+	{
+		"id": "http://zotero.org/users/local/VjY0yuEc/items/DZYVAP9V",
+		"type": "article-journal",
+		"abstract": "In a highly competitive modern society, more and more cities begin to focus on raising their own city brand competitiveness. Therefore, most of them have developed city brands and emblematic characters. Urban emblematic characters are playing a big role in promotions for the city and enhancing its image. This study is aimed at analyzing the emblematic characters of cities in Korea, China and Japan, especially focused on the cases of historical and cultural cities. According to the advanced research, case analysis was conducted on the three aspects “emblematic quality of city”, “design methods” and “value aspect”. This analysis was conducted about the cases of Heachi(Seoul), King and Queen(Gyeongju), AFu and AXi(Wuxi), Jiwa(Jishou), Hikoyan(Hikone), Kumaman(Kumamoto). The results of cases' analysis show, in the symbolic aspect, all emblematic character design was using the unique cultural elements of the city(region). In the design aspect, many cases show cute and friendly image of characters through simple shapes. And in the values of emblematic character, the cases of Korea and Japan show more utilization of the emblematic character. In conclusion, in order to improve the image of city, it is important to design characters based on the understanding of the city. Second, the emblematic character should be designed to improve the sense of intimacy and a simpler style which can bring a deeper impression. Third, it is necessary to have a long-term plan for the social and economic values of the city emblematic character.",
+		"container-title": "Journal of Communication Design",
+		"DOI": "10.25111/jcd.2018.64.19",
+		"ISSN": "19761562",
+		"journalAbbreviation": "JCD",
+		"language": "ko",
+		"page": "247-261",
+		"source": "DOI.org (Crossref)",
+		"title": "A Comparative Study on Emblematic Character Design of City Brand -Focused on cases of Korea, China and Japan-",
+		"URL": "https://kiss.kstudy.com/Detail/Ar?key=3627408",
+		"volume": "64",
+		"author": [
+			{
+				"family": "Yang",
+				"given": "Xu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					31
+				]
+			]
+		}
+	}
+]
